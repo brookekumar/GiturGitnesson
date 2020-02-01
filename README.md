@@ -28,3 +28,11 @@ The user should be able to:
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
 
+## Github Repo
+
+https://github.com/brookekumar/GiturGitnesson
+
+
+## Heroku
+
+https://gitnessapp.herokuapp.com/
