@@ -1,5 +1,6 @@
 # GiturGitnesson
 
+# February 2020: Added ServiceWorker functionality
 
 # Unit 17 Nosql Homework: Workout Tracker
 
